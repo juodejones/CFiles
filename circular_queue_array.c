@@ -1,3 +1,5 @@
+//Created  by Juode
+
 #include<stdio.h>
 int  queue[3];
 int top=-1, last=-1;

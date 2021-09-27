@@ -1,3 +1,5 @@
+//Created  by Juode
+
 #include <stdio.h>
 int aboveavg(int a[],int n,int avg);
 int avgheight(int a[],int n);

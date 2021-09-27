@@ -1,3 +1,5 @@
+//Created  by Juode
+
 #include<stdio.h>
 
 struct student

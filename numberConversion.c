@@ -1,3 +1,5 @@
+//Created  by Juode
+
 #include<stdio.h>
 void bin(int n);
 void hex(int n);

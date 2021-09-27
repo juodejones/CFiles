@@ -1,3 +1,5 @@
+//Created  by Juode
+
 #include <stdio.h>
 #include <math.h>
 
